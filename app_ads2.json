@@ -1,0 +1,74 @@
+[
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/jQZ8E-dn1g9SO6KwcF-fLzSEuBT0li8Ru6SlBDDwuhS0dlNMQe2H6xeYFYjYGIGqziU=w240-h480-rw",
+		"appName": "صانع الصور المصغرة وتحرير الصو",
+		"appDescription": "تطبيق صانع الصور المصغرة تصميم جديد تفاعلي وأنيق",
+		"url": "com.zatecart.thumbnailmaker"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/ZJjVdU1xcn66zYZrQnX7hfP5eTenmRD0Kw22oKuLZm8UmyiIJUzSvkov5A-sgxX2m2kB=w240-h480-rw",
+		"appName": "محرر الصور تاتيرات النيون",
+		"appDescription": "L'application du créateur et de l'éditeur de photos et des effets néon ",
+		"url": "com.tools.zatecartphotolap"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/eJRLcfbXG8QQgI-sRdNwH9NrUNOff4bmWTKtkkCcycM7D6ASfesvCMFjO_TCkE32mYeb=w240-h480-rw",
+		"appName": "مواقيت الصلاة, الأذان, قبله",
+		"appDescription": "la nouvelle application de temps de prière, qui ouvre la voie à l'utilisateur pour découvrir tout ce dont un musulman a besoin",
+		"url": "com.erindev.miqat.asalaat"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/N_htp3tq9ks5Tni3Hxa6ciceFrk1xgrA424zIUKGPtneg1l-5g82Q8B0tM4aX43cbQ=w240-h480-rw",
+		"appName": "صورتك مع الحيوانات",
+		"appDescription": "Faites vos photos avec des animaux par cette application",
+		"url": "com.zatecart.animalphotomaker"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII=s180",
+		"appName": "The Great Postman",
+		"appDescription": "Best REST API Client for Android",
+		"url": "https://play.google.com/store/apps/details?id=p32929.greatpostman"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/X8mRJd7JajvDXoW7NaluKt2IvC3osH6czkTPoWeSYJ96U2LWLKT4xiFgvNouwf-UvEk=s180",
+		"appName": "ExIn",
+		"appDescription": "A very simple Income-Expense tracker",
+		"url": "https://play.google.com/store/apps/details?id=p32929.exin"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/5Hdv5QGmGjlqxNhnEk7YGeTS6lNxUOy3P2UUhk54jG2QhMNnnNnipF4ZUNexL5haF9E=s180",
+		"appName": "Jibanananda Poems with Recitation",
+		"appDescription": "50+ poems of Jibanananda Das with audio recitation",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.jibonandokobitasomogro"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/w8xu1QviyuSn8-GHhhq6IJL5GxqhzVI2Ud5upUO5G9nah1W9IEOsUrZy1E7gFaY9lerk=s180",
+		"appName": "Brikkho",
+		"appDescription": "Learn about different type of trees at your fingertips.",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.brikkho"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/hNUDhqV47FehUomVzkkTHKOHTGfMCjtYS_AARPMfjdRp8_IZTKAZsnqmeTdyJsfd0Q=s180",
+		"appName": "IQQuiz",
+		"appDescription": "Easy quiz app that helps you to test your intelligence.",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.iqquizapp"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/MMfY8vG1YfAFh1w6iHEp8NXCwl-NSCUDmfPkUAWmqhSGfO3JR7vBvw_XZzV8JxrDag=s180",
+		"appName": "Contact Hospitals",
+		"appDescription": "Find a hospital near you with a simple search",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.contacthospitals"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/-GsghUClNfbaenELQN4jlX4RXN3fSZPd2sv2eIL3TVpdu-gntue1FmzsZUXISpKuAHo=s180",
+		"appName": "BirdsLover",
+		"appDescription": "Learn about a lot of birds with their description, scientific name, tweeting sound, image, and more",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.birdslover"
+	},
+	{
+		"appIcon": "https://lh3.googleusercontent.com/wdM_eEiBoBu2lu1laDfQYxZFx6XY44-zLHbAMIGiVrfJ0fcR5SqVFAjuNnhoEJaJMQ=s180",
+		"appName": "NCTB Books",
+		"appDescription": "Download and Read all the NCTB books from class 1-10 online/offline easily",
+		"url": "https://play.google.com/store/apps/details?id=org.richit.nctb"
+	}
+]
