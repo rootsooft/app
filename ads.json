@@ -1,103 +1,18 @@
-{
- "apps":
-[{
-  "app_title": "Focus - Be Productive",
-  "app_desc": "\"Focus\", a Simple App which helps you Concentrate on your work without any Disturbances by completely Disabling / Locking your Phone for a specified time period...!",
-  "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/focus_banner.png",
-  "app_uri": "com.lazygeniouz.focus",
-  "app_rating": "4.7",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "dialog"
-},
-{
-  "app_title": "Status Saver",
-  "app_desc": "An Easy, Fast & Simple App to save WhatsApp Image & Video Statuses ",
-  "app_icon": "https://lh3.googleusercontent.com/A81EGvZRbDuDgoTdahsJe5CiPXbfTHn2im38NkBkMXtu9ZXYBG7G9Bwr8TJ5Ic8QZA",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/status_saver_banner.jpg",
-  "app_uri": "com.lazygeniouz.saveit",
-  "app_rating": "4.6",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "dialog"
-},
-{
-  "app_title": "TexWalls!",
-  "app_desc": "A Simple App to create Simplistic Text Based Wallpapers!",
-  "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/texwalls_banner.png",
-  "app_uri": "com.lazygeniouz.tex",
-  "app_rating": "4.5",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "dialog"
-},
+[
+	{
+	"adShow": 5,
+	"adShowFB": 5,
+	"adCount": 0,
+	"banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+	"ADMOB_INTERSTITIAL_VIDEO": "ca-app-pub-3940256099942544/8691691433",
+	"ADMOB_ID": "ca-app-pub-3940256099942544~3347511713"
+	"ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110"
+	"ADMOB_REWARD_ID": "ca-app-pub-3940256099942544/5224354917"
+	"ADMOB_APP_OPEN": "ca-app-pub-3940256099942544/3419835294"
+	"ADS_TYPE": ""
+	"ADS_TYPE_ADMOB": ""
+	"ADS_TYPE_FACEBOOK_ADS": ""
 
-{
-  "app_title": "LaZy GeNiOuZ InC.",
-  "app_desc": "Example of Website Ad.",
-  "app_icon": "https://lazygeniouz.com/wp-content/uploads/2019/12/lz_logo_optimized.png",
-  "app_uri": "https://www.lazygeniouz.com",
-  "app_cta_text": "Check Out Now!",
-  "app_adType": "dialog"
-},
-
-
-{
-   "app_interstitial_url": "https://www.lazygeniouz.com/houseAds/four.png",
-   "app_uri": "https://www.lazygeniouz.com",
-   "app_adType": "interstitial"
-},
-
-
-{
-   "app_interstitial_url": "https://www.lazygeniouz.com/houseAds/one.png",
-   "app_uri": "https://www.lazygeniouz.com",
-   "app_adType": "interstitial"
-},
-
-{
-  "app_title": "Example App",
-  "app_desc": "This is an Example Ad..",
-  "app_icon": "https://lh3.googleusercontent.com/V_rwOqRNtWEIt45uuYysCn1f9EM4MCO8MYUPM4wM9lkxCSKhW4IpV2ODY6nKadEn_0c=s200-rw",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/focus_banner.png",
-  "app_uri": "com.example",
-  "app_rating": "4.3",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "native"
-},
-{
-  "app_title": "Status Saver",
-  "app_desc": "An Easy, Fast & Simple App to save WhatsApp Image & Video Statuses ",
-  "app_icon": "https://lh3.googleusercontent.com/A81EGvZRbDuDgoTdahsJe5CiPXbfTHn2im38NkBkMXtu9ZXYBG7G9Bwr8TJ5Ic8QZA=s200-rw",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/status_saver_banner.jpg",
-  "app_uri": "com.lazygeniouz.saveit",
-  "app_rating": "4.6",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "native"
-},
-{
-  "app_title": "TexWalls!",
-  "app_desc": "A Simple App to create Simplistic Text Based Wallpapers!",
-  "app_icon": "https://lh3.googleusercontent.com/eySkKspHqCJ7tWH9OUq6mRMNeXIiabfDjJmhJGHwV02aa9_I4DtTmVzH7gygS_CVEm8=s200-rw",
-  "app_header_image": "https://lz-houseads.firebaseapp.com/houseAds/imgs/texwalls_banner.png",
-  "app_uri": "com.lazygeniouz.tex",
-  "app_rating": "4.7",
-  "app_cta_text": "Install",
-  "app_price": "Free",
-  "app_adType": "native"
-},
-
-{
-  "app_title": "LaZy GeNiOuZ InC.",
-  "app_desc": "Example of Website Ad.",
-  "app_icon": "https://lazygeniouz.com/wp-content/uploads/2019/12/lz_logo_optimized.png",
-  "app_uri": "https://www.lazygeniouz.com",
-  "app_cta_text": "Check Out Now!",
-  "app_adType": "native"
-}
+	}
 ]
-}
