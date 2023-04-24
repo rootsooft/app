@@ -1,0 +1,45 @@
+[
+
+	{
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "متابعه",
+				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tiktok.webp",
+
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tiktok.webp",
+		"appDescription": "تابعنا على تيكتوك و حمل اجمل حالات الواتساب الحصريه لاجدد الاغاني العربيه مجانا",
+		"btnColor": "#35465d",
+		"url": "https://tiktok.com/@tweeta.ar"
+	 },
+	
+	{
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "انضمام",
+				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tlg.webp",
+
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/tlg.webp",
+		"appDescription": "انضم لنا على تليجرام لمتابعة اخر اخبار التطبيق و للاعلان عن الفائزين من خلال مسابقات التطبيق",
+		"btnColor": "#0088cc",
+		"url": "https://t.me/tf_ads"
+	 },
+	
+
+	{
+		"appTitle": "na",
+		"appRating": "na",
+		"appSize": "na",
+		"appCategory": "na",
+		"appBtnText": "تواصل",
+				"appCover": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/ig.webp",
+
+		"appIconStr": "https://raw.githubusercontent.com/SmartCodersEG/Tdata/main/ig.webp",
+		"appDescription": "اذا واجهت اى مشكله او لديك اى اقتراح تواصل معنا على انستاجرام من فضلك",
+		"btnColor": "#df6d46",
+		"url": "https://instagram.com/mo.6b"
+	 }
+]
