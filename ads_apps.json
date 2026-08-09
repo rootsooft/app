@@ -1,0 +1,31 @@
+{
+  "ads_list": [
+    {
+      "id": 1,
+      "app_name": "Adley fake call & live chat",
+      "app_icon": "https://play-lh.googleusercontent.com/qcWSFG2YrLtwTy_ief4uxyfctqXAgVL-HUUFp-aL7lWjKPiOsM7trt9lwHIGLBI-RH5p0Ywglkt8M8bXTQbMW1o=w240-h480-rw",
+      "app_rating": 4.5,
+      "rating_count": "(4.5)",
+      "button_text": "Install",
+      "action_url": "https://play.google.com/store/apps/details?id=com.haha.studio.call.adley"
+    },
+    {
+      "id": 2,
+      "app_name": "Nastya fake call & chat prank",
+      "app_icon": "https://play-lh.googleusercontent.com/YfaRlXjdt4Or_zzjhsKPXBNebrST90bKOK2Qr8s_f6swF3UTCtgf_YmMgT_4y6DpAqeHTc4jL2l__27HDFMo=w240-h480-rw",
+      "app_rating": 4.8,
+      "rating_count": "(4.8)",
+      "button_text": "Install",
+      "action_url": "https://play.google.com/store/apps/details?id=com.haha.studio.call.nastya"
+    },
+    {
+      "id": 3,
+      "app_name": "Smart Contacts Manager",
+      "app_icon": "https://play-lh.googleusercontent.com/wHr7GSmGB3Bn97zlnqNSbu8FHBddhknBviZt2FGF0BKrpLQrVSIn0RiDZelw79-C0xB2IbIiI9MGHlUxd4D4gg=w240-h480-rw",
+      "app_rating": 4.2,
+      "rating_count": "(4.2)",
+      "button_text": "Install",
+      "action_url": "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
+    }
+  ]
+}
